@@ -11,14 +11,14 @@ This project consists of analyzing raw Instacart datasets to generate insights o
 
 ## Skills Developed in this Project:
 ### Clean and Prepare Data for Analysis
-    Imputing values and formatting attributes. 
+&nbsp;&nbsp;Imputing values and formatting attributes. 
 
 ### Combining and Generating New Datasets and Attributes
-    Using pandas and python operations to integrate datasets based on attributes
-    Generated new variables based on existing attributes. 
+&nbsp;&nbsp;Using pandas and python operations to integrate datasets based on attributes
+&nbsp;&nbsp;Generated new variables based on existing attributes. 
 
 ### Visualizations
-    Created bar charts, line charts, histograms, and scatterplots. 
-    Editing and modifying graph elements. 
+&nbsp;&nbsp;Created bar charts, line charts, histograms, and scatterplots. 
+&nbsp;&nbsp;Editing and modifying graph elements. 
 
 
