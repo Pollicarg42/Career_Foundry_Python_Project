@@ -14,7 +14,7 @@ This project consists of analyzing raw Instacart datasets to generate insights o
 &nbsp;&nbsp;&nbsp;&nbsp;Imputing values and formatting attributes. 
 
 ### Combining and Generating New Datasets and Attributes
-&nbsp;&nbsp;&nbsp;&nbsp;Using pandas and python operations to integrate datasets based on attributes \
+&nbsp;&nbsp;&nbsp;&nbsp;Using pandas and python operations to integrate datasets based on attributes\
 &nbsp;&nbsp;&nbsp;&nbsp;Generated new variables based on existing attributes. 
 
 ### Visualizations
